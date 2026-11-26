@@ -12,8 +12,3 @@ Sistema web de gerenciamento interno da **Brito Estética Automotiva**, desenvol
 - **Back-end:** PHP
 - **Front-end:** TypeScript, HTML5, CSS3
 - **Banco de Dados:** MySQL
-
-## Como Executar o Projeto
-1. Clone este repositório no diretório do servidor web local:
-   ```bash
-   git clone [https://github.com/seu-usuario/brito-estetica-admin.git](https://github.com/seu-usuario/brito-estetica-admin.git)
